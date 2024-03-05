@@ -3,3 +3,4 @@
 ||telegraf.news^
 ||ria.ru^
 ||tass.ru^
+||www.rbc.ru^
