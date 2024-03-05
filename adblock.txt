@@ -1,0 +1,5 @@
+||lenta.ru^
+||rbc.ru^
+||telegraf.news^
+||ria.ru^
+||tass.ru^
