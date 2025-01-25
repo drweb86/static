@@ -4,3 +4,4 @@
 ||ria.ru^
 ||tass.ru^
 ||www.rbc.ru^
+||accounts.google.com/gsi/^
