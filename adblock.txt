@@ -5,3 +5,4 @@
 ||tass.ru^
 ||www.rbc.ru^
 ||accounts.google.com/gsi/^
+||x.com^
