@@ -6,3 +6,6 @@
 ||www.rbc.ru^
 ||accounts.google.com/gsi/^
 ||x.com^
+||tracking.us.nylas.com^
+||us.nylas.com^
+||nylas.com^
