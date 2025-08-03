@@ -38,3 +38,4 @@
 ||ES^
 ||SE^
 ||mostmedia.io^
+||speedtest.net^
