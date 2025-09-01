@@ -39,3 +39,4 @@
 ||SE^
 ||mostmedia.io^
 ||speedtest.net^
+||zerkalo.io^
