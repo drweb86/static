@@ -40,3 +40,9 @@
 ||mostmedia.io^
 ||speedtest.net^
 ||zerkalo.io^
+||runews24.ru^
+||mk.ru^
+||fedpress.ru^
+||inbusiness.kz^
+||regnum.ru^
+||euronews.com^
