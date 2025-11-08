@@ -46,3 +46,4 @@
 ||inbusiness.kz^
 ||regnum.ru^
 ||euronews.com^
+||bing.com^
