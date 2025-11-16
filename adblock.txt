@@ -48,3 +48,4 @@
 ||euronews.com^
 ||bing.com^
 ||files.fm^
+||dw.com^
