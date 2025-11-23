@@ -54,3 +54,4 @@
 ||mostmedia.io^
 ||news.zerkalo.io^
 ||charter97.org^
+||reform.news^
