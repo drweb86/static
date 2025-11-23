@@ -52,3 +52,4 @@
 ||a.fsdn.com^
 ||csis.org^
 ||mostmedia.io^
+||news.zerkalo.io^
