@@ -55,3 +55,6 @@
 ||news.zerkalo.io^
 ||charter97.org^
 ||reform.news^
+||warpmymind.com^
+||soundgasm.net^
+||soundcloud.com^
