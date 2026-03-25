@@ -37,6 +37,7 @@
 ||SI^
 ||ES^
 ||SE^
+||lv^
 ||mostmedia.io^
 ||speedtest.net^
 ||zerkalo.io^
