@@ -56,7 +56,6 @@
 ||news.zerkalo.io^
 ||charter97.org^
 ||reform.news^
-||warpmymind.com^
 ||devby.io^
 ||unian.net^
 ||bbc.com^
