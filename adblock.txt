@@ -67,3 +67,4 @@
 ||reuters.com^
 ||eu^
 yandex.by^
+||habr.com^
