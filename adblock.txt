@@ -70,3 +70,4 @@
 yandex.by^
 ||habr.com^
 ||andrealivieriphoto.com^
+||slrlounge.com^
