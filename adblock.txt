@@ -73,3 +73,4 @@ yandex.by^
 ||slrlounge.com^
 ||fearlessrevolution.com^
 ||wemod.com^
+||scribd.com^
