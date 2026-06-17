@@ -75,3 +75,4 @@ yandex.by^
 ||fearlessrevolution.com^
 ||wemod.com^
 ||scribd.com^
+||news.pn^
