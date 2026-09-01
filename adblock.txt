@@ -75,3 +75,5 @@
 ||wemod.com^
 ||scribd.com^
 ||news.pn^
+||userpilot.io^
+||bing.com^
