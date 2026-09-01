@@ -77,3 +77,5 @@
 ||news.pn^
 ||userpilot.io^
 ||bing.com^
+||csreport^
+||browserstack^
