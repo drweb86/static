@@ -79,3 +79,4 @@
 ||bing.com^
 ||csreport^
 ||browserstack^
+^preport.azurewebsites.net
